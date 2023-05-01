@@ -1,5 +1,5 @@
 # horiseon-improving-accessibility
-Enhancing the accessibility for Horiseon web application on smaller screen.
+Enhancing the accessibility for Horiseon web application on smaller screen. The code was initially obtained from the SCS Gitlab at: https://git.bootcampcontent.com/University-of-Toronto/UTOR-VIRT-FSF-PT-04-2023-U-LOLC.git
 
 
 ## Installation
